@@ -2,7 +2,7 @@
   "name": "employee-management-backend",
   "version": "1.0.0",
   "private": true,
-  "description": "REST API for the PeopleDesk employee management system",
+  "description": "REST API for the BMDU EmpSys employee management system",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
